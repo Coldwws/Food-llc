@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.row {
+    justify-content: space-between;
+    display: flex;
+}
+.navbar-header {
+    background-color: #e8e8e8;
+    padding: 40px;
+}
+.collapse navbar-collapse{
+    text-align: center;
+}
